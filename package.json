@@ -1,0 +1,48 @@
+{
+  "name": "caesar-cipher",
+  "version": "0.1.0",
+  "description": "Useless but fun. A quick implementation of the Caesar Cipher.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/brianleroux/caesar-cipher"
+  },
+  "keywords": [
+    "cipher",
+    "caesar"
+  ],
+  "author": {
+    "name": "Brian LeRoux"
+  },
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/brianleroux/caesar-cipher/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "caesar-cipher@0.1.0",
+  "dist": {
+    "shasum": "ccef1c66055eed3b3801831ece61df2902ff8011",
+    "tarball": "http://registry.npmjs.org/caesar-cipher/-/caesar-cipher-0.1.0.tgz"
+  },
+  "_from": "caesar-cipher@0.1.0",
+  "_npmVersion": "1.2.25",
+  "_npmUser": {
+    "name": "brianleroux",
+    "email": "b@brian.io"
+  },
+  "maintainers": [
+    {
+      "name": "brianleroux",
+      "email": "b@brian.io"
+    }
+  ],
+  "directories": {},
+  "_shasum": "ccef1c66055eed3b3801831ece61df2902ff8011",
+  "_resolved": "https://registry.npmjs.org/caesar-cipher/-/caesar-cipher-0.1.0.tgz",
+  "dependencies": {
+    "fs": "0.0.2"
+  }
+}
